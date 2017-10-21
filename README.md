@@ -1,2 +1,0 @@
-# Rabor
-A Discord Bot
